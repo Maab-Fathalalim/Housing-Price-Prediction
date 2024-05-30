@@ -17,7 +17,7 @@ of bedrooms and bathrooms, the number of stories, proximity to main roads, and t
   [Housing Dataset.csv](https://www.kaggle.com/datasets/ashydv/housing-dataset)
 
 ## Tools
-  python 
+  Jupyter
 
 ## Data cleaning 
   Find duplicates and null values to process them.
